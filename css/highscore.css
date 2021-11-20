@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Itim&display=swap");
+#highScoreList {
+  list-style: decimal;
+  padding: 1rem;
+  margin: 4rem;
+  font-family: "Architects Daughter", cursive;
+  font-weight: bolder;
+}
+
+.highscore {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.highscore:hover {
+  transform: scale(1.025);
+}
